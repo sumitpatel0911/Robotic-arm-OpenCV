@@ -1,4 +1,4 @@
-$Robotic-arm-OpenCV
+
 In this project, we control a Robotic Arm using OpenCV and the cvlearn library.
 
 In this project, we establish serial communication between a Python code and Arduino code.
