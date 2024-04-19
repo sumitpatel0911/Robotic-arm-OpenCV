@@ -7,7 +7,7 @@ In Python, we use three modules: OpenCV, cvlearn, and serial. The OpenCV module'
 
 In the Arduino code, we fix every servo position, and they are called according to the incoming serial data.
 
-here, we provide a semple running vedio of a this project:->
+Here, we provide a semple running vedio of a this project:->
 
 https://github.com/sumitpatel0911/Robotic-arm-OpenCV/assets/149647517/4e1c6672-32bf-4e5d-bb36-ae08da9dbe29
 
